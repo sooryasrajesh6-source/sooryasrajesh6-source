@@ -1,29 +1,28 @@
-## Hi there 👋
-
-<!--
-**sooryasrajesh6-source/sooryasrajesh6-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Soorya S Rajesh 👋
 
 🎓 Computer Science Engineering Student
 
 💻 Frontend Developer
 
-🚀 Learning React & Full Stack Development
+🚀 Learning React and Full Stack Development
 
-🛠️ Skills:
+🛠️ Skills
 - HTML
 - CSS
 - JavaScript
 - React
 - Git & GitHub
 
-📌 Projects:
+📌 Featured Projects
+- Personal Portfolio
 - Jewelry Store Website
-- Supra Landing Page
 - QR Code Generator
 - Random User Generator
 - Language Translator
+- Supra Landing Page
 
-🌐 Portfolio:
+🌐 Portfolio
 https://sooryasrajesh6-source.github.io/personal-profile/
+
+📫 Email
+sooryasrajesh6@gmail.com

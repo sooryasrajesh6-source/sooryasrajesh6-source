@@ -26,3 +26,6 @@ https://sooryasrajesh6-source.github.io/personal-profile/
 
 📫 Email
 sooryasrajesh6@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/soorya-s-rajesh-45ba30348

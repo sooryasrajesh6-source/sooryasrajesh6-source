@@ -11,6 +11,7 @@
 - CSS
 - JavaScript
 - React
+- node.js
 - Git & GitHub
 
 📌 Featured Projects
@@ -20,6 +21,7 @@
 - Random User Generator
 - Language Translator
 - Supra Landing Page
+- netflix clone
 
 🌐 Portfolio
 https://sooryasrajesh6-source.github.io/personal-profile/

@@ -1,21 +1,10 @@
-# Hi, I'm Soorya S Rajesh 👋
+# Hi 👋, I'm Soorya S Rajesh
 
-### Java Developer • Computer Science Engineering Student
+### ☕ Java Developer | 🎓 Computer Science Engineering Student | 🚀 Full Stack Learner
 
-```java
-class Developer {
-    String name = "Soorya S Rajesh";
-    String role = "Java Developer";
-    String education = "B.Tech Computer Science Engineering";
-
-    String[] currentlyLearning = {
-        "Java",
-        "OOP",
-        "Data Structures",
-        "Spring Boot"
-    };
-}
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Computer+Science+Engineering+Student;Building+Projects+Every+Day;Learning+Spring+Boot+and+DSA;Future+Full+Stack+Java+Developer" />
+</p>
 
 ---
 
@@ -24,66 +13,85 @@ class Developer {
 * 🎓 Computer Science Engineering Student
 * ☕ Currently focused on Java Development
 * 🌱 Learning OOP, DSA, JDBC, MySQL, and Spring Boot
+* 📚 Building a Learn Programming App
+* 🚀 Developing real-world projects
 * 💡 Interested in Software Development and Backend Engineering
-* 🚀 Building projects to improve my coding skills
+* 📍 Kerala, India
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-```text
-Languages     : Java, JavaScript
-Frontend      : HTML, CSS, React
-Backend       : Node.js
-Database      : MySQL
-Tools         : Git, GitHub, VS Code, IntelliJ IDEA
-```
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,mysql,git,github,vscode,idea" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-📚 Student Management System
-☕ Java OOP-based console application
+### ☕ Java Student Management System
 
-💬 Chat Application
-Real-time chat application using Node.js and Socket.IO
+A Java console application using Object-Oriented Programming concepts to manage student records.
 
-🎬 Netflix Clone
-React-based frontend project
+### 📚 Learn Programming App
 
-🏥 Medicare Hospital Portal
-Hospital management UI built with React
+An educational app for learning HTML, CSS, JavaScript, React, Java, and Full Stack Development with lessons and examples.
 
-👤 Personal Portfolio
-Portfolio website showcasing my projects and skills
+### 💬 Chat Application
+
+Real-time chat application built using Node.js, Express.js, and Socket.IO.
+
+### 🎬 Netflix Clone
+
+Netflix-inspired frontend application built with React.
+
+### 🏥 Medicare Hospital Portal
+
+Hospital management system frontend with patient dashboard and appointment management.
+
+### 👤 Personal Portfolio
+
+Personal website showcasing projects, skills, and achievements.
+
+### 💰 Expense Tracker
+
+Responsive web application for tracking expenses and budgets.
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sooryasrajesh6-source\&show_icons=true\&theme=github_dark)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sooryasrajesh6-source&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooryasrajesh6-source&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sooryasrajesh6-source\&layout=compact\&theme=github_dark)
-
----
-
-## 🎯 Current Goal
-
-```text
-Java → OOP → Collections → JDBC → MySQL
-                    ↓
-               Spring Boot
-                    ↓
-        Full Stack Java Developer
-```
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sooryasrajesh6-source&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect
 
-GitHub: https://github.com/sooryasrajesh6-source
+---
 
-LinkedIn: Your LinkedIn URL
+## 🏆 GitHub Achievement
 
-Email: [sooryasrajesh6@gmail.com](mailto:sooryasrajesh6@gmail.com)
+🥇 YOLO Achievement Unlocked
+
+---
+
+
+## 🌐 Connect With Me
+
+📧 Email: [sooryasrajesh6@gmail.com](mailto:sooryasrajesh6@gmail.com)
+
+💻 GitHub: https://github.com/sooryasrajesh6-source
+
+🔗 LinkedIn:www.linkedin.com/in/soorya-s-rajesh-45ba30348
+
+---
+
+
+⭐ Thanks for visiting my profile!

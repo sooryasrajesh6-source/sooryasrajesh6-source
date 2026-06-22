@@ -1,55 +1,107 @@
-
 # Hi 👋, I'm Soorya S Rajesh
 
-## Computer Science Engineering Student | Full Stack Development Learner
+### Computer Science Engineering Student | Java Developer | Full Stack Development Learner
 
-I am passionate about web development and building creative frontend projects using HTML, CSS, JavaScript, React, and Node.js.
+I am a Computer Science Engineering student passionate about software development and problem-solving. Currently, I am focusing on Java programming, Object-Oriented Programming (OOP), and building practical projects while continuing to learn modern web technologies.
+
+---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering Student
-- 🌱 Currently learning Full Stack Development
-- 💻 Interested in Web Development
-- 🔭 Building projects and uploading them on GitHub
-- 📍 Kerala, India
+🎓 Computer Science Engineering Student
 
-## 🛠 Skills
+☕ Currently learning Java and OOP Concepts
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Git](https://img.shields.io/badge/Git-red?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+🌱 Exploring Data Structures & Algorithms
+
+💻 Interested in Software Development and Web Development
+
+🔭 Building Java and Web Development Projects
+
+📍 Kerala, India
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+
+* Java
+* JavaScript
+* HTML5
+* CSS3
+
+### Java Concepts
+
+* Object-Oriented Programming (OOP)
+* Classes & Objects
+* Inheritance
+* Polymorphism
+* Encapsulation
+* Abstraction
+* Exception Handling
+* Collections Framework
+
+### Web Development
+
+* React
+* Node.js
+* Bootstrap
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* IntelliJ IDEA
+
+---
 
 ## 📌 Featured Projects
 
-### 💬 Chat Application
-Real-time chat application using Node.js and Socket.IO.
+### 🎓 Student Management System
+
+Java console application using OOP concepts for managing student records.
+
+### 🧮 Calculator Application
+
+Java-based calculator implementing user input and control structures.
 
 ### 🎬 Netflix Clone
-Netflix-style frontend project using React.
+
+Frontend project built using React.
+
+### 💬 Chat Application
+
+Real-time chat application using Node.js and Socket.IO.
 
 ### 👤 Personal Portfolio
-A personal portfolio website to showcase my skills and projects.
 
-### 💰 Expense Tracker
-A simple expense tracking web application.
+Portfolio website showcasing skills and projects.
 
-### 📝 Student Registration Form
-A basic student registration form using HTML and CSS.
+### 🏥 Medicare Hospital Portal
 
-### 🎨 Oggy Website
-Creative cartoon-themed website using HTML and CSS.
+Hospital management frontend project built with React.
 
-## 📊 GitHub Stats
+---
 
-![Soorya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooryasrajesh6-source&show_icons=true&theme=tokyonight)
+## 📈 Current Learning Goals
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sooryasrajesh6-source&layout=compact&theme=tokyonight)
+* Java Programming
+* Data Structures & Algorithms
+* Advanced OOP Concepts
+* JDBC
+* MySQL
+* Spring Boot
+
+---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/sooryasrajesh6-source
-- LinkedIn: Add your LinkedIn link here
+* GitHub: https://github.com/sooryasrajesh6-source
+
+---
+
+### ✨ Motto
+
+> "Code. Learn. Build. Improve."

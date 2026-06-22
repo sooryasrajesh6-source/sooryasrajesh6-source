@@ -1,107 +1,89 @@
-# Hi 👋, I'm Soorya S Rajesh
+# Hi, I'm Soorya S Rajesh 👋
 
-### Computer Science Engineering Student | Java Developer | Full Stack Development Learner
+### Java Developer • Computer Science Engineering Student
 
-I am a Computer Science Engineering student passionate about software development and problem-solving. Currently, I am focusing on Java programming, Object-Oriented Programming (OOP), and building practical projects while continuing to learn modern web technologies.
+```java
+class Developer {
+    String name = "Soorya S Rajesh";
+    String role = "Java Developer";
+    String education = "B.Tech Computer Science Engineering";
 
----
-
-## 🚀 About Me
-
-🎓 Computer Science Engineering Student
-
-☕ Currently learning Java and OOP Concepts
-
-🌱 Exploring Data Structures & Algorithms
-
-💻 Interested in Software Development and Web Development
-
-🔭 Building Java and Web Development Projects
-
-📍 Kerala, India
+    String[] currentlyLearning = {
+        "Java",
+        "OOP",
+        "Data Structures",
+        "Spring Boot"
+    };
+}
+```
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 About Me
 
-### Programming Languages
-
-* Java
-* JavaScript
-* HTML5
-* CSS3
-
-### Java Concepts
-
-* Object-Oriented Programming (OOP)
-* Classes & Objects
-* Inheritance
-* Polymorphism
-* Encapsulation
-* Abstraction
-* Exception Handling
-* Collections Framework
-
-### Web Development
-
-* React
-* Node.js
-* Bootstrap
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* IntelliJ IDEA
+* 🎓 Computer Science Engineering Student
+* ☕ Currently focused on Java Development
+* 🌱 Learning OOP, DSA, JDBC, MySQL, and Spring Boot
+* 💡 Interested in Software Development and Backend Engineering
+* 🚀 Building projects to improve my coding skills
 
 ---
 
-## 📌 Featured Projects
+## 🛠 Tech Stack
 
-### 🎓 Student Management System
-
-Java console application using OOP concepts for managing student records.
-
-### 🧮 Calculator Application
-
-Java-based calculator implementing user input and control structures.
-
-### 🎬 Netflix Clone
-
-Frontend project built using React.
-
-### 💬 Chat Application
-
-Real-time chat application using Node.js and Socket.IO.
-
-### 👤 Personal Portfolio
-
-Portfolio website showcasing skills and projects.
-
-### 🏥 Medicare Hospital Portal
-
-Hospital management frontend project built with React.
+```text
+Languages     : Java, JavaScript
+Frontend      : HTML, CSS, React
+Backend       : Node.js
+Database      : MySQL
+Tools         : Git, GitHub, VS Code, IntelliJ IDEA
+```
 
 ---
 
-## 📈 Current Learning Goals
+## 📂 Featured Projects
 
-* Java Programming
-* Data Structures & Algorithms
-* Advanced OOP Concepts
-* JDBC
-* MySQL
-* Spring Boot
+📚 Student Management System
+☕ Java OOP-based console application
+
+💬 Chat Application
+Real-time chat application using Node.js and Socket.IO
+
+🎬 Netflix Clone
+React-based frontend project
+
+🏥 Medicare Hospital Portal
+Hospital management UI built with React
+
+👤 Personal Portfolio
+Portfolio website showcasing my projects and skills
 
 ---
 
-## 🌐 Connect With Me
+## 📈 GitHub Stats
 
-* GitHub: https://github.com/sooryasrajesh6-source
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sooryasrajesh6-source\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sooryasrajesh6-source\&layout=compact\&theme=github_dark)
 
 ---
 
-### ✨ Motto
+## 🎯 Current Goal
 
-> "Code. Learn. Build. Improve."
+```text
+Java → OOP → Collections → JDBC → MySQL
+                    ↓
+               Spring Boot
+                    ↓
+        Full Stack Java Developer
+```
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/sooryasrajesh6-source
+
+LinkedIn: Your LinkedIn URL
+
+Email: [sooryasrajesh6@gmail.com](mailto:sooryasrajesh6@gmail.com)
